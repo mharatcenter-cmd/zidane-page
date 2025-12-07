@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <title>اللاعب الفرنسي زين الدين زيدان</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <style>
+    body { font-family: Arial, sans-serif; background:#f5f5f5; margin:0; padding:0; line-height:1.6; }
+    .container { max-width:900px; margin:0 auto; background:#ffffff; padding:30px; box-shadow:0 0 10px rgba(0,0,0,0.1); }
+    h1 { color:#1a73e8; text-align:center; margin-bottom:10px; font-size:2.2em; }
+    h2 { color:#333; border-bottom:2px solid #1a73e8; padding-bottom:10px; }
+    h3 { color:#555; }
+    .section { margin-bottom:30px; }
+    .hero-image { text-align:center; margin:20px 0; }
+    .hero-image img { max-width:100%; height:auto; border-radius:10px; box-shadow:0 4px 8px rgba(0,0,0,0.2); }
+    ul { padding-right:20px; }
+    li { margin-bottom:8px; }
+    .footer { margin-top:40px; font-size:0.9em; color:#666; text-align:center; padding-top:20px; border-top:1px solid #eee; }
+    .club-list img { width:80px; height:80px; border-radius:50%; margin:5px; vertical-align:middle; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <!-- صورة رئيسية كبيرة في الأعلى -->
+    <div class="hero-image">
+      <img src="images/zidane-hero.jpg" alt="زين الدين زيدان - صورة رئيسية" width="500">
+    </div>
+
+    <h1>اللاعب الفرنسي زين الدين زيدان</h1>
+
+    <div class="section">
+      <h2>من هو زين الدين زيدان؟</h2>
+      <p>زين الدين زيدان لاعب كرة قدم فرنسي أسطوري من أصل جزائري، يُعد من أعظم صانعي اللعب في تاريخ كرة القدم، واشتهر بلمساته الساحرة ورؤيته الاستثنائية داخل الملعب.</p>
+      <!-- صورة جانبية -->
+      <img src="images/zidane-portrait.jpg" alt="صورة شخصية لزيدان" width="300" style="float:right; margin:10px 0 10px 20px;">
+    </div>
+
+    <div class="section">
+      <h2>المعلومات الشخصية</h2>
+      <ul>
+        <li>الاسم الكامل: زين الدين يزيد زيدان</li>
+        <li>تاريخ الميلاد: 23 يونيو 1972</li>
+        <li>مكان الميلاد: مارسيليا، فرنسا</li>
+        <li>الجنسية: فرنسي من أصول جزائرية</li>
+        <li>المركز: لاعب وسط هجومي / صانع ألعاب</li>
+        <li>لقبه: زيزو</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>مسيرته مع الأندية</h2>
+      <div class="club-list">
+        <ul>
+          <li><img src="images/cannes.png" alt="نادي كان"> نادي كان (فرنسا): البداية الاحترافية</li>
+          <li><img src="images/bordeaux.png" alt="نادي بوردو"> نادي بوردو (فرنسا): إثبات الذات</li>
+          <li><img src="images/juventus.png" alt="يوفنتوس"> نادي يوفنتوس (إيطاليا): البطولات الأوروبية</li>
+          <li><img src="images/realmadrid.png" alt="ريال مدريد"> نادي ريال مدريد (إسبانيا): ذروة المجد</li>
+        </ul>
+      </div>
+      <!-- صورة من مباراة -->
+      <img src="images/zidane-action.jpg" alt="زيدان في مباراة" width="400" style="display:block; margin:20px auto;">
+    </div>
+
+    <div class="section">
+      <h2>أهم الإنجازات والألقاب</h2>
+      <h3>مع الأندية والمنتخب</h3>
+      <ul>
+        <li>🏆 كأس العالم 1998 مع فرنسا</li>
+        <li>🏆 بطولة أمم أوروبا 2000 مع فرنسا</li>
+        <li>🏆 دوري أبطال أوروبا 2002 مع ريال مدريد</li>
+        <li>🏆 بطولات دوري إيطاليا مع يوفنتوس</li>
+      </ul>
+      <h3>الجوائز الفردية</h3>
+      <ul>
+        <li>أفضل لاعب في العالم (FIFA)</li>
+        <li>كرة ذهبية الكرة الذهبية</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>مسيرته كمدرب</h2>
+      <p>قاد ريال مدريد لتحقيق <strong>ثلاثة ألقاب متتالية</strong> في دوري أبطال أوروبا (2016-2018)، وهو إنجاز تاريخي نادر في عالم كرة القدم.</p>
+      <!-- صورة كمدرب -->
+      <img src="images/zidane-coach.jpg" alt="زيدان كمدرب" width="400" style="display:block; margin:20px auto;">
+    </div>
+
+    <div class="footer">
+      <p>📄 صفحة تعريفية شاملة عن أسطورة كرة القدم زين الدين زيدان | يمكنك إضافة المزيد من الصور والمعلومات</p>
+    </div>
+  </div>
+</body>
+</html>
